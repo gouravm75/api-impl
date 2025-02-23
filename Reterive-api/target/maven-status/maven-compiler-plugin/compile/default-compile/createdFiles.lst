@@ -1,0 +1,5 @@
+com\example\cardtemplateservice\model\CardTemplate.class
+com\example\cardtemplateservice\repository\CardTemplateRepository.class
+com\example\cardtemplateservice\controller\CardTemplateController.class
+com\example\cardtemplateservice\service\CardTemplateService.class
+com\example\cardtemplateservice\CardTemplateServiceApplication.class

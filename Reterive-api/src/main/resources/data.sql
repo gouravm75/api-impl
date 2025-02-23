@@ -1,0 +1,2 @@
+INSERT INTO card_template (name, description) VALUES ('Birthday Card', 'A template for birthday cards');
+INSERT INTO card_template (name, description) VALUES ('Thank You Card', 'A template for thank you cards');
